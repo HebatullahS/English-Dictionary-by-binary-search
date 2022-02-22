@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1526636077 source:e:\desktop items\sara\foe\4th term\data structure#1\datastructureassignment4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1526636077 
+
+1526474638 e:\desktop items\sara\foe\4th term\data structure#1\datastructureassignment4\main.h
+
+1526681287 source:/home/mohamedpsc/Desktop/DataStructureAssignment4/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1526474638 /home/mohamedpsc/Desktop/DataStructureAssignment4/main.h
+
+1526677680 source:/home/mohamedpsc/Desktop/DataStructureAssignment4/test.c
+	<stdio.h>
+	<stdlib.h>
+
+1526928338 source:c:\users\aly\downloads\datastructureassignment4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1526474638 c:\users\aly\downloads\datastructureassignment4\main.h
+
+1527106599 source:c:\users\muhammad\desktop\datastructureassignment4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
